@@ -1,0 +1,8 @@
+Nicola,6,19,Saudi Arabian Grand Prix,False,5,True,
+Ivana,1234567,18,Saudi Arabian Grand Prix,False,6,True,
+Jose,12312,2121,Azerbaijan Grand Prix,False,10,False,
+Juan,1234512,21,Australian Grand Prix,False,12,False,
+Pedro,1234123,21,Australian Grand Prix,False,13,False,
+Sebastian,131223242,12,Australian Grand Prix,False,14,True,
+Eleonora,12321389,34,Japanese Grand Prix,False,22,False,
+Sofia,330309234,12,Saudi Arabian Grand Prix,False,23,False,
